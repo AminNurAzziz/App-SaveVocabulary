@@ -1,16 +1,30 @@
-# write_vocab
+<div align="center">
+  <h1>SaveVocabulary</h1>
 
-A new Flutter project.
+  <p>
+    <b>Belajar local storage</b>
+  </p>
+</div>
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Deskripsi
 
-A few resources to get you started if this is your first Flutter project:
+SaveVocabulary adalah aplikasi sederhana yang memungkinkan Anda untuk menyimpan dan mengelola daftar kata-kata dalam penyimpanan lokal browser (localStorage). Aplikasi ini membantu Anda untuk mengingat kata-kata yang Anda pelajari dan meningkatkan perbendaharaan kata Anda.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Fitur
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Menambahkan kata-kata baru ke daftar
+- Menghapus kata-kata dari daftar
+- Menampilkan daftar kata-kata yang tersimpan
+- Penyimpanan lokal menggunakan localStorage
+- Desain yang sederhana dan mudah digunakan
+
+## Penggunaan
+
+Anda dapat menggunakan aplikasi ini dengan mengikuti langkah-langkah berikut:
+
+1. Clone repositori ini ke komputer Anda:
+
+   ```bash
+   git clone https://github.com/username/SaveVocabulary.git
